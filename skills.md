@@ -1,40 +1,8 @@
-\# Skills
+# **Skills**
 
+**Programming Languages:** Python, Java, JavaScript, C
 
+**Tools:** Git, GitHub, VS Code 
 
-\## Programming Languages
-
-
-
-\- Python
-
-\- Java
-
-\- C
-
-
-
-\## Tools
-
-
-
-\- Git
-
-\- GitHub
-
-\- VS Code
-
-
-
-\## Soft Skills
-
-
-
-\- Communication
-
-\- Teamwork
-
-\- Problem Solving
-
-\- Time Management
+**Soft Skills:** Problem Solving, Written Communication, Self-Learning
 
